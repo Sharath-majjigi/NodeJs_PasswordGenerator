@@ -5,3 +5,5 @@
  * Can give length of the password  <br />
  * Decide whether you want numbers , Symbols in password  <br />
  * Save the password in a file  <br />
+
+![Passwordgenerator](https://user-images.githubusercontent.com/67635598/124572734-812a5e00-de66-11eb-86d4-f66827c8d6ff.gif)
